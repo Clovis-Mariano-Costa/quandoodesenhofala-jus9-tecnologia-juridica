@@ -1,0 +1,2 @@
+Pacote Quando o Desenho Fala reempacotado para gerar novo link de download.
+Usei como base o pacote existente quandoodesenhofala-jus9-tecnologia-juridica_v4_0.zip, pois o link temporário anterior v2.0 falhou.
