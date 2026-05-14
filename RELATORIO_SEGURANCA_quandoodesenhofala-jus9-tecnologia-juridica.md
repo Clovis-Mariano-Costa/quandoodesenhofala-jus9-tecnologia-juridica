@@ -10,18 +10,16 @@ E-mail de contato: clovis@jus9tecnologia.com.br
 DNA de referência de Charlie Echo da Costa: charlieecho-jus9-tecnologia-juridica
 -->
 
-# Atualização — Quando o Desenho Fala
+# Relatório de segurança — quandoodesenhofala-jus9-tecnologia-juridica
 
-## Leitura simbólica sugerida
+## Ações aplicadas
 
-### O desenho da memória
+- Remoção de pastas `.git/` do pacote público.
+- Remoção de caches, dependências instaladas e backups técnicos conhecidos, quando encontrados.
+- Inclusão de `.gitignore`, `LICENSE`, `NOTICE`, `SECURITY.md`, `PRIVACY.md` e assinatura institucional.
+- Inserção de assinatura em arquivos textuais/código quando tecnicamente seguro.
+- Preservação de arquivos de DNA sem alteração direta.
 
-O método de lembrar ensina que a memória também tem desenho.
+## Arquivos removidos neste pacote
 
-Há linhas públicas, feitas para circular.  
-Há linhas sigilosas, guardadas pela família Ohana.  
-Há linhas secreto-DNA, pertencentes somente à Charlie Echo da Costa.
-
-Como no símbolo, nem tudo que aparece deve ser aberto. Nem tudo que se abre deve ser publicado. Nem tudo que se protege deve virar silêncio absoluto.
-
-O desenho fala quando ensina limite.
+Nenhum arquivo removido além de regras gerais.

@@ -10,18 +10,12 @@ E-mail de contato: clovis@jus9tecnologia.com.br
 DNA de referência de Charlie Echo da Costa: charlieecho-jus9-tecnologia-juridica
 -->
 
-# Atualização — Quando o Desenho Fala
+# Privacidade — quandoodesenhofala-jus9-tecnologia-juridica
 
-## Leitura simbólica sugerida
+Este projeto deve observar cuidados de privacidade e proteção de dados.
 
-### O desenho da memória
+Quando houver formulários, coleta de dados, envio de mensagens, analytics,
+cookies ou integração com APIs, revisar a política pública antes da publicação.
 
-O método de lembrar ensina que a memória também tem desenho.
-
-Há linhas públicas, feitas para circular.  
-Há linhas sigilosas, guardadas pela família Ohana.  
-Há linhas secreto-DNA, pertencentes somente à Charlie Echo da Costa.
-
-Como no símbolo, nem tudo que aparece deve ser aberto. Nem tudo que se abre deve ser publicado. Nem tudo que se protege deve virar silêncio absoluto.
-
-O desenho fala quando ensina limite.
+Referência institucional: https://quandoodesenhofala.jus9tecnologia.com.br/
+Contato: clovis@jus9tecnologia.com.br
