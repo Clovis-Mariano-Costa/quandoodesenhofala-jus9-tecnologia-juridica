@@ -1,11 +1,21 @@
 # Sugestão de commit
 
-**Summary**
-```text
-docs: atualizar governança e narrativa institucional de quandoodesenhofala-jus9-tecnologia-juridica
+## Repertório
+
+`quandoodesenhofala-jus9-tecnologia-juridica`
+
+## Summary
+
+```txt
+docs: atualizar governança do Quando o Desenho Fala
 ```
 
-**Description**
-```text
-Adiciona/organiza registros de governança, narrativa institucional, autoria, segurança e relação com o ecossistema Jus 9/Charlie Echo, preservando a distinção entre material público e conteúdo interno/sensível.
+## Description
+
+```txt
+Atualiza governança do repertório Quando o Desenho Fala com orientações sobre leitura simbólica, autoria, separação entre imagem pública e conteúdo sensível.
+
+Inclui arquivos de governança, segurança, classificação de conteúdo, instruções para Charlie, .gitignore, .env.example, manifesto e sugestão de commit.
+
+Este commit encerra o Pacote Governança em pré-Mão na Massa e prepara a base para o próximo pacote de alterações visuais.
 ```
