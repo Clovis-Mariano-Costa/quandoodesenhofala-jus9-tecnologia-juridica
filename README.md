@@ -1,17 +1,9 @@
 # Quando o Desenho Fala
 
-## Repertório
+Repertório: `quandoodesenhofala-jus9-tecnologia-juridica`
 
-`quandoodesenhofala-jus9-tecnologia-juridica`
+Status: existente
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-existente
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Atualiza governança do repertório Quando o Desenho Fala com orientações sobre leitura simbólica, autoria, separação entre imagem pública e conteúdo sensível.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
