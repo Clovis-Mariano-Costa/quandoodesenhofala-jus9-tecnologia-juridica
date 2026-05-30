@@ -1,0 +1,26 @@
+<svg width="1254" height="1254" viewBox="0 0 1254 1254" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title>Segundo Logo Charlie oficial com estrela corrigida de nove pontas</title>
+  <desc>Matriz visual escolhida pelo Fundador, preservada com sobreposicao vetorial deterministica de exatamente nove pontas.</desc>
+  <defs>
+    <radialGradient id="night" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0d1b2b"/>
+      <stop offset="78%" stop-color="#06101d"/>
+      <stop offset="100%" stop-color="#020813"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#9d6414"/>
+      <stop offset="36%" stop-color="#ffe8a8"/>
+      <stop offset="62%" stop-color="#d49a2a"/>
+      <stop offset="100%" stop-color="#8c540d"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <image href="segundo-logo-charlie-oficial-original.png" width="1254" height="1254"/>
+  <circle cx="627" cy="261" r="154" fill="url(#night)" stroke="#b9862f" stroke-width="3" opacity=".98"/>
+  <g transform="translate(627 261) scale(2.55) translate(-220 -70)" filter="url(#glow)">
+    <path id="nine-point-star" d="M220 18 L229.23 46.63 L254.71 30.63 L243.38 58.5 L273.18 62.62 L246.59 76.69 L266.77 99 L237.36 92.68 L238.47 122.74 L220 99 L201.53 122.74 L202.64 92.68 L173.23 99 L193.41 76.69 L166.82 62.62 L196.62 58.5 L185.29 30.63 L210.77 46.63 Z" fill="url(#gold)" stroke="#ffe6a0" stroke-width="2"/>
+  </g>
+</svg>
