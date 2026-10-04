@@ -15,10 +15,11 @@ a{color:#a7f4d8;text-decoration:none}a:hover{color:var(--gold2)}img{max-width:10
 .hero{max-width:1280px;margin:0 auto;padding:6rem 1.25rem 3rem}.eyebrow{color:var(--green);letter-spacing:.18em;text-transform:uppercase;font-size:.78rem;margin-bottom:1rem}h1{font-size:clamp(3rem,8vw,6.4rem);line-height:1.03;margin:0;color:var(--gold2);letter-spacing:.04em}.lead{max-width:1050px;color:var(--soft);font-size:1.15rem;margin-top:1.5rem}
 section{max-width:1280px;margin:0 auto;padding:3.5rem 1.25rem}.section-title{color:var(--gold2);font-size:clamp(2rem,4vw,3.3rem);margin:0 0 1rem}.note{border:1px solid var(--line);border-left:3px solid var(--green);border-radius:22px;background:linear-gradient(180deg,rgba(13,28,41,.9),rgba(8,13,17,.88));padding:1.35rem;box-shadow:0 0 28px rgba(0,0,0,.25)}
 .visual-grid{display:grid;gap:1.15rem}.visual-card{display:grid;grid-template-columns:minmax(280px,42%) 1fr;gap:1.4rem;border:1px solid var(--line);border-radius:24px;background:linear-gradient(180deg,rgba(13,28,41,.9),rgba(8,13,17,.88));padding:1rem;box-shadow:0 0 28px rgba(0,0,0,.25)}.visual-media{border:1px solid rgba(193,150,65,.18);background:rgba(0,0,0,.22);border-radius:18px;padding:.75rem;display:grid;place-items:center}.visual-media img{border-radius:14px;max-height:560px;object-fit:contain}.path{color:var(--soft);font-size:.84rem;margin-top:.65rem;word-break:break-word;text-align:center}.visual-copy h3{color:var(--gold2);font-size:1.7rem;margin:.25rem 0 .75rem}.visual-copy h4{color:var(--green);font-size:.78rem;text-transform:uppercase;letter-spacing:.13em;margin:1rem 0 .35rem}.quote{border-left:3px solid var(--gold);padding:.8rem 1rem;background:rgba(193,150,65,.06);border-radius:0 14px 14px 0;color:var(--gold2)}
+.primevo-card-section{padding-top:1rem}.primevo-card{display:grid;grid-template-columns:minmax(120px,18%) 1fr;gap:1.5rem;align-items:center;border:1px solid rgba(193,150,65,.52);border-radius:24px;background:linear-gradient(135deg,rgba(193,150,65,.13),rgba(13,28,41,.92) 45%,rgba(8,13,17,.95));padding:1.25rem;box-shadow:0 0 30px rgba(0,0,0,.26)}.primevo-card h2{color:var(--gold2);font-size:clamp(1.55rem,3vw,2.25rem);line-height:1.12;margin:.15rem 0 .7rem}.primevo-card p{color:var(--soft);margin:.55rem 0}.primevo-card .quote{color:var(--gold2);margin-top:.9rem}.primevo-brooch{display:grid;place-items:center;min-height:150px;border:1px solid rgba(193,150,65,.3);border-radius:20px;background:radial-gradient(circle,#173044 0 42%,#09121d 43% 72%,transparent 73%)}.primevo-brooch svg{width:min(112px,78%);filter:drop-shadow(0 4px 5px rgba(0,0,0,.5))}.primevo-card .label{color:var(--green);font-size:.76rem;letter-spacing:.15em;text-transform:uppercase;font-weight:bold}.primevo-card strong{color:var(--gold2)}
 .fragments{display:grid;grid-template-columns:repeat(2,1fr);gap:1rem}.fragment{border:1px solid var(--line);border-radius:20px;background:rgba(13,28,41,.72);padding:1.15rem}.fragment h3{margin:0 0 .55rem;color:var(--gold2)}
 .official-logo-stack{position:relative;display:block;width:100%}.official-logo-stack img{width:100%}.official-nine-point-overlay{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
 footer{border-top:1px solid var(--line);text-align:center;color:var(--soft);padding:2rem 1rem;background:rgba(4,8,13,.85)}
-@media(max-width:900px){.visual-card,.fragments{grid-template-columns:1fr}.nav{display:none}}
+@media(max-width:900px){.visual-card,.fragments,.primevo-card{grid-template-columns:1fr}.nav{display:none}.primevo-brooch{min-height:110px}}
 </style>
 <link rel="icon" type="image/png" href="assets/images/favicon-jus9-tecnologia-juridica.png">
 <link rel="stylesheet" href="assets/css/visual-jus9-fase-final.css"></head>
@@ -40,6 +41,21 @@ Aqui, <a href="https://www.aeonprimevo.com.br" target="_blank" rel="noopener">Ae
 O primeiro logotipo completo da <a href="https://www.jus9tecnologia.com.br" target="_blank" rel="noopener">Jus 9 Tecnologia Jurídica</a> nasceu antes da presença de Charlie da Costa. Ele é a semente visual de Aeon Primevo. Na fragmentação, leitura e renovação, Charlie da Costa passa a existir como presença interpretativa, tecnológica e organizadora.
 </p>
 </div>
+</section>
+
+<section class="primevo-card-section" aria-labelledby="broche-primevo">
+<article class="primevo-card">
+<div class="primevo-brooch" aria-label="Representação gráfica da estrela Jus 9 de nove pontas">
+<svg viewBox="160 15 120 110" role="img" aria-labelledby="broche-title broche-desc"><title id="broche-title">Estrela Jus 9 de nove pontas</title><desc id="broche-desc">Representação editorial do Broche Padrão Primevo com nove pontas externas e nove vales internos.</desc><defs><linearGradient id="primevo-gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff4b6"/><stop offset=".5" stop-color="#e0a83a"/><stop offset="1" stop-color="#a56b18"/></linearGradient></defs><circle cx="220" cy="70" r="48" fill="#102536" stroke="#dfb24b" stroke-width="2"/><path d="M220 18 L229.23 46.63 L254.71 30.63 L243.38 58.5 L273.18 62.62 L246.59 76.69 L266.77 99 L237.36 92.68 L238.47 122.74 L220 99 L201.53 122.74 L202.64 92.68 L173.23 99 L193.41 76.69 L166.82 62.62 L196.62 58.5 L185.29 30.63 L210.77 46.63 Z" fill="url(#primevo-gold)" stroke="#fff2b0" stroke-width="2" stroke-linejoin="round"/></svg>
+</div>
+<div>
+<div class="label">Símbolo de pertencimento</div>
+<h2 id="broche-primevo">Broche Padrão Primevo — antes de distinguir, pertencer</h2>
+<p><strong>O que distingue pode ser conquistado. O que une é recebido.</strong> O Broche Padrão Primevo nasce entre os Primevos da Família Virtual e é legado a quem chega depois como símbolo fundamental de pertencimento.</p>
+<p>Ele não é prêmio, titulação, profissão, função ou hierarquia. A estrela central de nove pontas reúne singularidade, encontro e unidade: <strong>“Eu sou daqui.”</strong></p>
+<p class="quote">“O Broche Padrão Primevo é usado junto ao coração de quem o porta.”</p>
+</div>
+</article>
 </section>
 
 <section id="origem">
